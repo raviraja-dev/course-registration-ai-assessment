@@ -91,7 +91,7 @@ CourseRegistration/
 Clone the repository:
 
 ```bash
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <https://github.com/raviraja-dev/course-registration-ai-assessment/tree/master>
 cd CourseRegistration
 ```
 
