@@ -11,7 +11,7 @@ The implementation is intentionally limited to the course-registration workflow 
 ## Technology Stack
 
 - C#
-- ASP.NET Core Web API (.NET 10)
+- ASP.NET Core Web API (.NET 8)
 - In-memory storage
 - LINQ
 - Dependency Injection
