@@ -67,8 +67,8 @@ CourseRegistration/
 │       └── WaitlistEntry.cs
 │
 ├── CourseRegistration.Infrastructure/
-│   ├── Data/
-│   │   └── SampleData.cs
+│   ├── SampleData/
+│   │   └── Data.cs
 │   └── Repositories/
 │       └── InMemoryCourseRepository.cs
 │
