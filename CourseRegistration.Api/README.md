@@ -83,7 +83,7 @@ CourseRegistration/
 
 ## Prerequisites
 
-- .NET 10 SDK
+- .NET 8 SDK
 - Visual Studio with ASP.NET and web development workload, or another compatible .NET development environment
 
 ## Setup and Run
