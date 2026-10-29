@@ -114,9 +114,9 @@ Use the localhost address displayed by the application.
 
 | Method | Endpoint | Description |
 |---|---|---|
-| POST | `/api/enrollments/{learnerId}` | Enroll or waitlist a learner |
-| DELETE | `/api/enrollments/{learnerId}` | Drop and promote an eligible waitlisted learner |
-| GET | `/api/enrollments/status/{learnerId}` | Check learner status (optional diagnostic) |
+| POST | `/api/Enrollment/{learnerId}` | Enroll or waitlist a learner |
+| DELETE | `/api/Enrollment/{learnerId}` | Drop and promote an eligible waitlisted learner |
+| GET | `/api/Enrollment/status/{learnerId}` | Check learner status (optional diagnostic) |
 
 ### Example Workflow
 
